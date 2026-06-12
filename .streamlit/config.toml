@@ -1,0 +1,15 @@
+[theme]
+base = "dark"
+
+# Warna aksen utama (Biru Terang / Neon Blue) untuk slider dan tombol
+primaryColor = "#2F2FE4" 
+
+# Latar belakang utama (Biru Sangat Gelap / Hampir Hitam)
+backgroundColor = "#080616"
+
+# Latar belakang sidebar dan elemen lainnya (Biru Gelap / Navy)
+secondaryBackgroundColor = "#1A1953"
+
+# Teks utama (Putih agar kontras dan mudah dibaca)
+textColor = "#FFFFFF"
+font = "sans serif"
