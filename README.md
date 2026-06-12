@@ -47,7 +47,7 @@ The application will automatically open in your browser at `http://localhost:850
 ## 📁 Repository Structure
 * `app.py` — Main Streamlit web app script and Fuzzy Logic functions.
 * `model_hybrid.pkl` — Trained Random Forest model (exported from the Colab notebook).
-* `Tubes_DKA_Fuzzy_SmartHome.ipynb` — Jupyter Notebook / Google Colab containing data exploration, model training, membership function visualizations, and comparative performance analysis.
+* `Tubes_DKA_Fuzzy_SmartHome.ipynb` — Google Colab containing data exploration, model training, membership function visualizations, and comparative performance analysis.
 
 ## 👥 Development Team
 
