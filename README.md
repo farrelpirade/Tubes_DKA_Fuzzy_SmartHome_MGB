@@ -29,31 +29,36 @@ Data sourced from the **[Appliances Energy Prediction Data Set](https://archive.
 
 **1. Clone the Repository**
 
-````bash
+```bash
 git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
+```
 
 **2. Install Dependencies**
 Ensure you have Python installed, then run:
+
 ```bash
 pip install streamlit pandas scikit-learn joblib
+```
 
 **3. Run the Streamlit App**
+
 ```bash
 python -m streamlit run app.py
+```
 
 The application will automatically open in your browser at `http://localhost:8501`.
 
-## 📁 Repository Structure
-* `app.py` — Main Streamlit web app script and Fuzzy Logic functions.
-* `model_hybrid.pkl` — Trained Random Forest model (exported from the Colab notebook).
-* `Tubes_DKA_Fuzzy_SmartHome.ipynb` — Google Colab containing data exploration, model training, membership function visualizations, and comparative performance analysis.
+## Repository Structure
 
-## 👥 Development Team
+- `app.py` — Main Streamlit web app script and Fuzzy Logic functions.
+- `model_hybrid.pkl` — Trained Random Forest model (exported from the Colab notebook).
+- `Tubes_DKA_Fuzzy_SmartHome.ipynb` — Google Colab containing data exploration, model training, membership function visualizations, and comparative performance analysis.
 
-| Name | Student ID (NIM) |
-| :--- | :--- |
-| Farrel Malik Pirade | 103012400068 |
-| Ghifari Nurwafi Yoga | 103012400020 |
-| Sava Arsya Syandana | 103012400043 |
-````
+## Development Team
+
+| Name                 | Student ID (NIM) |
+| :------------------- | :--------------- |
+| Farrel Malik Pirade  | 103012400068     |
+| Ghifari Nurwafi Yoga | 103012400020     |
+| Sava Arsya Syandana  | 103012400043     |
